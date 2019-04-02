@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "poziom": 1,
+    "pytanie": "tresc1",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 2,
+    "poziom": 1,
+    "pytanie": "tresc2",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 3,
+    "poziom": 1,
+    "pytanie": "tresc3",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 4,
+    "poziom": 1,
+    "pytanie": "tresc4",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 5,
+    "poziom": 2,
+    "pytanie": "tresc5",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 6,
+    "poziom": 2,
+    "pytanie": "tresc6",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 7,
+    "poziom": 2,
+    "pytanie": "tresc7",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 8,
+    "poziom": 3,
+    "pytanie": "tresc8",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 9,
+    "poziom": 3,
+    "pytanie": "tresc9",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  },
+  {
+    "id": 10,
+    "poziom": 3,
+    "pytanie": "tresc10",
+    "poprawne": ["poprawna1", "poprawna2", "poprawna3", "poprawna4"],
+    "bledne": ["bledna1", "bledna2", "bledna3", "bledna4", "bledna5", "bledna6", "bledna7"]
+  }
+]
